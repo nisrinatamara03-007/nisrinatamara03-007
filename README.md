@@ -10,3 +10,9 @@ Ia juga merancang dan membangun dua tools internal dari nol — aplikasi Task Ma
 
 - ⚡ Fun fact: You will know me once you get to know me. 
 
+<p align="left">
+<a href="https://github.com/nisrinatamara03-007">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nisrinatamara03-007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nisrinatamara03-007&layout=compact&theme=algolia"/>
+</a>
+</p>
